@@ -6,7 +6,7 @@ import (
 
 func main() {
 
-	N := 1000
+	N := 100
 	p := make([]bool, N)
 
 	for i := 0; i < N; i++ {

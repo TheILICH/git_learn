@@ -5,5 +5,5 @@ import (
 )
 
 func Hello() {
-    fmt.Println("HELLO FROM TWO")
+    fmt.Println("HHHHHHEEEEEEEEELLLLLLOOOOOOO FFFFRRRRRRROOOOOMMMMM TTTTTTTTWWWWWWOOOOOO!!")
 }

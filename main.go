@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"git/two"
 )
 
 func main() {
@@ -31,6 +32,8 @@ func main() {
 	}
 
 	fmt.Printf("PRIMES BETWEEN 1 AND %d ARE => \n%v\n", N, res)
+    fmt.Println()
+	two.Hello()
 
 
 }

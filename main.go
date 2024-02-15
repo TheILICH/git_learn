@@ -32,7 +32,7 @@ func main() {
 	}
 
 	fmt.Printf("PRIMES BETWEEN 1 AND %d ARE => \n%v\n", N, res)
-    fmt.Println()
+fmt.Println()
 	two.Hello()
 
 }

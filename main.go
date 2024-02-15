@@ -31,6 +31,8 @@ func main() {
 		}
 	}
 
-	
+	fmt.Printf("PRIMES BETWEEN 1 AND %d => %v", N, res)
+	fmt.Println()
+	two.Hello()
 
 }

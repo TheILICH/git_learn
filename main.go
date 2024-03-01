@@ -35,4 +35,6 @@ func main() {
 	fmt.Println()
 	two.Hello()
 
+    two.Hello()
+
 }

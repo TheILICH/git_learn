@@ -1,9 +1,10 @@
 package two
 
 import (
-    "fmt"
+	"fmt"
 )
 
 func Hello() {
-    fmt.Println("HHHHHHEEEEEEEEELLLLLLOOOOOOO FFFFRRRRRRROOOOOMMMMM TTTTTTTTWWWWWWOOOOOO!!")
+	fmt.Println("HHHHHHEEEEEEEEELLLLLLOOOOOOO FFFFRRRRRRROOOOOMMMMM TTTTTTTTWWWWWWOOOOOO!!")
+	fmt.Println("Shyntas here!")
 }
